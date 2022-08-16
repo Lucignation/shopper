@@ -1,0 +1,13 @@
+.single_product_title {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #333;
+  line-height: 140%;
+  letter-spacing: 1px;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.increase,
+.decrease {
+  cursor: pointer;
+}
